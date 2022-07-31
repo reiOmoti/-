@@ -9,7 +9,7 @@ Minecraft 配布ワールド 「The Unusual SkyBlock」次期開発用データ�
 
 公式サイト: https://skyblock.jp/
 
-## 一般の方向け
+## プレイ方法
 シングルでプレイする場合の手順
 マルチでプレイする場合の手順
 
